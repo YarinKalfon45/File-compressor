@@ -1,2 +1,2 @@
 # File-compressor
-simple zip-file compressor with GUI using PySimpleGUI
+Simple zip-file compressor with GUI using PySimpleGUI
